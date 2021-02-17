@@ -10,3 +10,13 @@ A curated awesome list of lists of nonbinary resources. Feel free to contribute!
 ## blog posts
 
 ## podcasts / streams / videos
+
+## contributing to this list
+"Curated": the contribution / link / book / quote / collaboration has been personal reviewed by the maintainer or contributor
+"Awesome": helpful / inspirational / informative / educational
+"NonBinary": not relating to, composed of, or involving just two things; [Non-binary or genderqueer](https://en.wikipedia.org/wiki/Non-binary_gender) is a spectrum of gender identities that are not exclusively masculine or feminine - identities that are outside the gender binary. Non-binary identities can fall under the transgender umbrella, since many non-binary people identify with a gender that is different from their assigned sex.
+"Resources": a [source or supply](https://en.wikipedia.org/wiki/Resource) from which a benefit is produced and that has some utility
+
+If you're keen to contribute, please [file an issue](https://github.com/rainleander/nonbinary-resources/issues) and / or make a corresponding [pull request](https://github.com/rainleander/nonbinary-resources/pulls).
+
+This project enforces [The Developer Certificate of Origin](https://developercertificate.org/) and requests that all contributers sign their contributions accordingly.
