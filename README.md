@@ -10,6 +10,9 @@ A curated awesome list of lists of nonbinary resources. Feel free to contribute!
 ## blog posts
 
 ## podcasts / streams / videos
+* [Living as a non-binary in a binary world | Graysen Hall | TEDxUniversityofKent](https://www.youtube.com/watch?v=7pvLDHFCEWk)
+* [Toilets, bowties, gender and me | Audrey Mason-Hyde | TEDxAdelaide](https://www.youtube.com/watch?v=NCLoNwVJA-0)
+* [Walking Through the World Non-Binary | Jesse Lueck | TEDxRanneySchool](https://www.youtube.com/watch?v=OKJjwTEfaKc)
 
 ## contributing to this list
 "Curated": the contribution / link / book / quote / collaboration has been personal reviewed by the maintainer or contributor
