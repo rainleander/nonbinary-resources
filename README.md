@@ -18,6 +18,7 @@ A curated awesome list of nonbinary resources. Feel free to contribute!
 * [Living as a non-binary in a binary world | Graysen Hall | TEDxUniversityofKent](https://www.youtube.com/watch?v=7pvLDHFCEWk)
 * [Toilets, bowties, gender and me | Audrey Mason-Hyde | TEDxAdelaide](https://www.youtube.com/watch?v=NCLoNwVJA-0)
 * [Walking Through the World Non-Binary | Jesse Lueck | TEDxRanneySchool](https://www.youtube.com/watch?v=OKJjwTEfaKc)
+* [The Gender Tag Project](https://www.youtube.com/playlist?list=PLFS4s3pfLP1xEfB_1Rsi52EwbOdR3hCK2) *The Gender Tag Project compiles videos of individuals answering a set of ten "Gender Tag Questions" that explain their experiences with gender.*
 
 ## social media
 * [No Gender No Problem Twitter Account](https://twitter.com/ngendernproblem) *We are conversation starters with a passion for gender and its complexity. Celebrating the non binary and multiplicity of identity.*
