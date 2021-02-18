@@ -17,6 +17,9 @@ A curated awesome list of nonbinary resources. Feel free to contribute!
 * [Toilets, bowties, gender and me | Audrey Mason-Hyde | TEDxAdelaide](https://www.youtube.com/watch?v=NCLoNwVJA-0)
 * [Walking Through the World Non-Binary | Jesse Lueck | TEDxRanneySchool](https://www.youtube.com/watch?v=OKJjwTEfaKc)
 
+## social media
+* [No Gender No Problem Twitter](https://twitter.com/ngendernproblem)
+
 ## contributing to this list
 * "Curated": the contribution / link / book / quote / collaboration has been personal reviewed by the maintainer or contributor
 * "Awesome": helpful / inspirational / informative / educational
