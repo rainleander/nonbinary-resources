@@ -2,16 +2,17 @@
 A curated awesome list of nonbinary resources. Feel free to contribute!
 
 ## books
-* Life Isn't Binary by Meg-John Barker(@megjohnbarker) and Alex Iantaffi (@XTaffi)
-"Much of society's thinking operates in a highly rigid and binary manner; something is good or bad, right or wrong, a success or a failure, and so on. Challenging this limited way of thinking, this groundbreaking publication looks at how non-binary methods of thought can be applied to all aspects of life, offering new and greater ways of understanding ourselves and how we relate to others."
-* Epistemology of the Closet by Sedgwick, E.K.
-"Sedgwick argues that standard binary oppositions limit freedom and understanding, especially in the context of sexuality. Sedgwick argues that limiting sexuality to homosexuality or heterosexuality, in a structured binary opposition, is just too simplistic."
+* Life Isn't Binary by Meg-John Barker(@megjohnbarker) and Alex Iantaffi (@XTaffi) *Much of society's thinking operates in a highly rigid and binary manner; something is good or bad, right or wrong, a success or a failure, and so on. Challenging this limited way of thinking, this groundbreaking publication looks at how non-binary methods of thought can be applied to all aspects of life, offering new and greater ways of understanding ourselves and how we relate to others.*
+* Epistemology of the Closet by Sedgwick, E.K. *Sedgwick argues that standard binary oppositions limit freedom and understanding, especially in the context of sexuality. Sedgwick argues that limiting sexuality to homosexuality or heterosexuality, in a structured binary opposition, is just too simplistic.*
 ## peer reviewed publications
+* [“There Is Nothing to Do About It”: Nonbinary Individuals' Experience of Gender Dysphoria](https://www.liebertpub.com/doi/abs/10.1089/trgh.2020.0041) *Results of this study suggest that nonbinary transindividuals experience gender dysphoria in unique ways. These findings highlight the need to develop clinical assessments of gender dysphoria that reflect nonbinary experience, and to outline explicit medical protocols for interventions tailored to achieve a desired outcome of physical androgyny.*
+* [The Imperative for Transgender and Gender Nonbinary Inclusion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7170432/) *We aim to make evident that solely referencing cisgender women in the context of sexual and reproductive health—particularly pregnancy planning and care—excludes a diverse group of transgender and gender nonbinary people who have sexual and reproductive health needs and experiences that can be similar to but also unique from those of cisgender women.*
+* [The health status of transgender and gender nonbinary adults in the United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228765) *The goal of this exploratory study was to delineate health differences among transgender subpopulations (transgender women/TW, transgender men/TM, gender nonbinary/GNB adults).*
 
 ## blogs / blog posts / news articles
-* [NonBinaryResource.Tumblr.Com](https://nonbinaryresource.tumblr.com/) "UPDATE: Blog is currently CLOSED! A resource for nonbinary people to discuss and learn about identities and experiences."
-* [Life Outside The Binary](https://lifeoutsidethebinary.com/) "Nonbinary Transgender Information Centre"
-* [Let's Queer Things Up!](https://letsqueerthingsup.com/) "Queer identity, mental health, self-care, cats"
+* [NonBinaryResource.Tumblr.Com](https://nonbinaryresource.tumblr.com/) *UPDATE: Blog is currently CLOSED! A resource for nonbinary people to discuss and learn about identities and experiences.*
+* [Life Outside The Binary](https://lifeoutsidethebinary.com/) *Nonbinary Transgender Information Centre*
+* [Let's Queer Things Up!](https://letsqueerthingsup.com/) *Queer identity, mental health, self-care, cats*
 
 ## podcasts / streams / videos
 * [Living as a non-binary in a binary world | Graysen Hall | TEDxUniversityofKent](https://www.youtube.com/watch?v=7pvLDHFCEWk)
