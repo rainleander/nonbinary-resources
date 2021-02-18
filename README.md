@@ -25,6 +25,7 @@ A curated awesome list of nonbinary resources. Feel free to contribute!
 ## resource lists
 * [Gendered Intelligence: resources about non-binary identities](http://genderedintelligence.co.uk/projects/kip/transidentities/resources-nb)
 * [Transgender Care Listings: non-binary resources](http://transcaresite.org/?page_id=988)
+* [GENDERQUEER.ME: resources](https://genderqueer.me/resources/)
 
 ## contributing to this list
 * "Curated": the contribution / link / book / quote / collaboration has been personal reviewed by the maintainer or contributor
