@@ -20,8 +20,8 @@ A curated awesome list of nonbinary resources. Feel free to contribute!
 * [Walking Through the World Non-Binary | Jesse Lueck | TEDxRanneySchool](https://www.youtube.com/watch?v=OKJjwTEfaKc)
 
 ## social media
-* [No Gender No Problem Twitter](https://twitter.com/ngendernproblem) *We are conversation starters with a passion for gender and its complexity. Celebrating the non binary and multiplicity of identity.*
-* [Nonbinary Inclusion Project](https://www.facebook.com/nonbinaryuk/) *We campaign for the recognition, inclusion, protection and equality of nonbinary in all organisations, as well as in law.*
+* [No Gender No Problem Twitter Account](https://twitter.com/ngendernproblem) *We are conversation starters with a passion for gender and its complexity. Celebrating the non binary and multiplicity of identity.*
+* [Nonbinary Inclusion Project Facebook Page](https://www.facebook.com/nonbinaryuk/) *We campaign for the recognition, inclusion, protection and equality of nonbinary in all organisations, as well as in law.*
 
 ## resource lists
 * [Gendered Intelligence: resources about non-binary identities](http://genderedintelligence.co.uk/projects/kip/transidentities/resources-nb)
