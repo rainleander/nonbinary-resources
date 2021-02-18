@@ -1,5 +1,5 @@
 # nonbinary-resources
-A curated awesome list of lists of nonbinary resources. Feel free to contribute!
+A curated awesome list of nonbinary resources. Feel free to contribute!
 
 ## books
 * Life Isn't Binary by Meg-John Barker(@megjohnbarker) and Alex Iantaffi (@XTaffi)
