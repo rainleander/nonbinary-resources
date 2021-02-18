@@ -10,6 +10,7 @@ A curated awesome list of nonbinary resources. Feel free to contribute!
 
 ## blogs / blog posts / news articles
 * [NonBinaryResource.Tumblr.Com](https://nonbinaryresource.tumblr.com/) "UPDATE: Blog is currently CLOSED! A resource for nonbinary people to discuss and learn about identities and experiences."
+* [Life Outside The Binary](https://lifeoutsidethebinary.com/) "Nonbinary Transgender Information Centre"
 
 ## podcasts / streams / videos
 * [Living as a non-binary in a binary world | Graysen Hall | TEDxUniversityofKent](https://www.youtube.com/watch?v=7pvLDHFCEWk)
