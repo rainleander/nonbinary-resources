@@ -8,7 +8,7 @@ A curated awesome list of nonbinary resources. Feel free to contribute!
 "Sedgwick argues that standard binary oppositions limit freedom and understanding, especially in the context of sexuality. Sedgwick argues that limiting sexuality to homosexuality or heterosexuality, in a structured binary opposition, is just too simplistic."
 ## peer reviewed publications
 
-## blog posts
+## blogs / blog posts / news articles
 
 ## podcasts / streams / videos
 * [Living as a non-binary in a binary world | Graysen Hall | TEDxUniversityofKent](https://www.youtube.com/watch?v=7pvLDHFCEWk)
