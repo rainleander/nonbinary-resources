@@ -22,6 +22,9 @@ A curated awesome list of nonbinary resources. Feel free to contribute!
 * [No Gender No Problem Twitter](https://twitter.com/ngendernproblem) *We are conversation starters with a passion for gender and its complexity. Celebrating the non binary and multiplicity of identity.*
 * [Nonbinary Inclusion Project](Nonbinary Inclusion Project) *We campaign for the recognition, inclusion, protection and equality of nonbinary in all organisations, as well as in law.*
 
+## resource lists
+* [Gendered Intelligence: resources about non-binary identities](http://genderedintelligence.co.uk/projects/kip/transidentities/resources-nb)
+
 ## contributing to this list
 * "Curated": the contribution / link / book / quote / collaboration has been personal reviewed by the maintainer or contributor
 * "Awesome": helpful / inspirational / informative / educational
