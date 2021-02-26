@@ -13,6 +13,7 @@ A curated awesome list of nonbinary resources. Feel free to [contribute](https:/
 * [NonBinaryResource.Tumblr.Com](https://nonbinaryresource.tumblr.com/) *UPDATE: Blog is currently CLOSED! A resource for nonbinary people to discuss and learn about identities and experiences.*
 * [Life Outside The Binary](https://lifeoutsidethebinary.com/) *Nonbinary Transgender Information Centre*
 * [Let's Queer Things Up!](https://letsqueerthingsup.com/) *Queer identity, mental health, self-care, cats*
+* [Gender is Geen Modern Gedoe](https://decorrespondent.nl/12012/gender-is-geen-modern-gedoe-kijk-maar-naar-deze-fascinerende-geschiedenissen/4814155822476-15ab196e) *Dutch blog post by Karin Amatmoekrim on the history of gender fluidity*
 
 ## podcasts / streams / videos
 * [Living as a non-binary in a binary world | Graysen Hall | TEDxUniversityofKent](https://www.youtube.com/watch?v=7pvLDHFCEWk)
